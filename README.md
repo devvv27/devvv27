@@ -15,7 +15,7 @@ I enjoy digging into problems, testing ideas, and figuring out the little detail
 - NumPy, Pandas, Django, OpenCV, MediaPipe, ReactJS, Matplotlib, PyCryptodome, PyTorch
 
 ### **Tools**
-- Docker, Git, GitHub
+- Docker, Git
 
 ### **Databases**
 - MySQL, MongoDB
