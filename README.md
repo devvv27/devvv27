@@ -22,5 +22,5 @@ I am passionate about **cybersecurity and cryptography** and i actively explore 
 
 ## 📄 Publications
 
-- **Deep Learning Based Predictive Analysis of Immersion Cooled Lithium-Ion Batteries**  
+ **Deep Learning Based Predictive Analysis of Immersion Cooled Lithium-Ion Batteries**  
   Accepted for publication at the *4th International Conference on Applied Artificial Intelligence and Computing (ICAAIC 2025)*.
