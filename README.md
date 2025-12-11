@@ -10,13 +10,10 @@ I enjoy digging into problems, testing ideas, and figuring out the little detail
 
 ### **Languages**
 - C, Java, Python, JavaScript, MATLAB
-
 ### **Libraries & Frameworks**
 - NumPy, Pandas, Django, OpenCV, MediaPipe, ReactJS, Matplotlib, PyCryptodome, PyTorch
-
 ### **Tools**
 - Docker, Git
-
 ### **Databases**
 - MySQL, MongoDB
 
