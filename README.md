@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Dewang 👋
 
-<!--
-**devvv27/devvv27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
+I’m a third-year Computer Science (AI) student who loves learning through exploration and experimentation.
+I enjoy digging into problems, testing ideas, and figuring out the little details that make systems behave the way they do. I’m always quietly looking for the next interesting challenge to grow from.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+### **Programming**
+- C, Java, Python, JavaScript, MATLAB
+
+### **Machine Learning & Deep Learning**
+- PyTorch
+
+### **Libraries & Frameworks**
+- NumPy, Pandas, Django, OpenCV, MediaPipe, ReactJS, Matplotlib, PyCryptodome
+
+### **Tools**
+- Docker, Git, GitHub
+
+### **Databases**
+- MySQL, MongoDB
+
+## 📄 Publications
+
+- **2025 — Deep Learning Based Predictive Analysis of Immersion Cooled Lithium-Ion Batteries**  
+  Accepted for publication at the *4th International Conference on Applied Artificial Intelligence and Computing (ICAAIC 2025)*.
