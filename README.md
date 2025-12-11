@@ -8,14 +8,11 @@ I enjoy digging into problems, testing ideas, and figuring out the little detail
 
 ## 🛠 Skills
 
-### **Programming**
+### **Languages**
 - C, Java, Python, JavaScript, MATLAB
 
-### **Machine Learning & Deep Learning**
-- PyTorch
-
 ### **Libraries & Frameworks**
-- NumPy, Pandas, Django, OpenCV, MediaPipe, ReactJS, Matplotlib, PyCryptodome
+- NumPy, Pandas, Django, OpenCV, MediaPipe, ReactJS, Matplotlib, PyCryptodome, PyTorch
 
 ### **Tools**
 - Docker, Git, GitHub
