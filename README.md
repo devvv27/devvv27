@@ -22,5 +22,5 @@ I enjoy digging into problems, testing ideas, and figuring out the little detail
 
 ## 📄 Publications
 
-- **2025 — Deep Learning Based Predictive Analysis of Immersion Cooled Lithium-Ion Batteries**  
+- **Deep Learning Based Predictive Analysis of Immersion Cooled Lithium-Ion Batteries**  
   Accepted for publication at the *4th International Conference on Applied Artificial Intelligence and Computing (ICAAIC 2025)*.
