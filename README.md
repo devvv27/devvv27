@@ -11,15 +11,6 @@ I am passionate about **cybersecurity and cryptography** and i actively explore 
 
 ------
 
-## 🛠️ Skills
-
-- **Programming:** C, Java, Python, JavaScript, MATLAB  
-- **Libraries & Frameworks:** NumPy, Pandas, OpenCV, MediaPipe, ReactJS, Django, Matplotlib, PyCryptodome, PyTorch  
-- **Tools:** Docker, Git  
-- **Databases:** MySQL, MongoDB  
-
-------
-
 ## 📄 Publications
 
  **Deep Learning Based Predictive Analysis of Immersion Cooled Lithium-Ion Batteries**  
