@@ -5,7 +5,9 @@ Hiiii
 Third year engineering student.
 
 I like building cool stuff.
+
 Mostly AI related systems.
+
 Sometimes web applications too.
 
 Curious builder. Occasional coder. Full time debugger.
