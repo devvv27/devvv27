@@ -1,15 +1,13 @@
-# Hi there, I'm Dewang 👋
+# 💫 About Me
 
-Welcome to my GitHub profile!
+Hiiii
+Third year engineering student.
 
-------
+I like building cool stuff.
+Mostly AI related systems.
+Sometimes web applications too.
 
-## About Me
-I’m a third-year Computer Science (AI) student who loves learning through exploration and experimentation.
-I enjoy digging into problems, testing ideas, and figuring out the little details that make systems behave the way they do. I’m always quietly looking for the next interesting challenge to grow from.
-I am passionate about **cybersecurity and cryptography** and i actively explore it as part of **bi0s**, where I work on cryptographic challenges, secure coding practices, and cipher breaking.
-
-------
+Curious builder. Occasional coder. Full time debugger.
 
 ## 📄 Publications
 
