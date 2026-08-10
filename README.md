@@ -18,7 +18,7 @@ Sometimes web applications too.
 
  **Deep Learning Based Predictive Analysis of Immersion Cooled Lithium-Ion Batteries**  
   Published at the *4th International Conference on Applied Artificial Intelligence and Computing (ICAAIC 2025)*.
-  
+  [Check it out](https://ieeexplore.ieee.org/document/11330634/)
 
  **Post Earthquake Damage Assessment Using enhanced Siamese U-Net in Satellite Images** 
   Accepted for publication at the 10th International Conference on Computer, Communication and Signal Processing (ICCCSP 2026).
