@@ -17,8 +17,11 @@ Sometimes web applications too.
 ## 📄 Publications
 
  **Deep Learning Based Predictive Analysis of Immersion Cooled Lithium-Ion Batteries**  
-  Accepted for publication at the *4th International Conference on Applied Artificial Intelligence and Computing (ICAAIC 2025)*.
+  Published at the *4th International Conference on Applied Artificial Intelligence and Computing (ICAAIC 2025)*.
   
+
+ **Post Earthquake Damage Assessment Using enhanced Siamese U-Net in Satellite Images** 
+  Accepted for publication at the 10th International Conference on Computer, Communication and Signal Processing (ICCCSP 2026).
 
 
 
