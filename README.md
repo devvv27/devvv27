@@ -7,6 +7,8 @@ I primarily work on building AI systems.
 
 Sometimes web applications too.
 
+still curious, still creating, still confused.
+
 
 ## Research Publications
 
