@@ -14,7 +14,7 @@ Mostly AI related systems.
 Sometimes web applications too.
 
 
-## 📄 Publications
+## Research Publications
 
  **Deep Learning Based Predictive Analysis of Immersion Cooled Lithium-Ion Batteries**  
   Published at the *4th International Conference on Applied Artificial Intelligence and Computing (ICAAIC 2025)*.
@@ -25,7 +25,7 @@ Sometimes web applications too.
 
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
