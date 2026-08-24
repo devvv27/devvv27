@@ -1,12 +1,10 @@
 
-hiii....
+# Hiii.... I'm Dewang Choudhary
 
-Fourth year CSE- AI student.
+I'm a ourth year CSE- AI student currently studying at Amrita Vishwa Vidhyapeetam, Bangalore. 
 
 I like building cool stuff.
-
 Mostly AI related systems.
-
 Sometimes web applications too.
 
 
