@@ -4,9 +4,6 @@ Hiiii !!!!!
 
 Fourth year CSE- AI student.
 
-Curious builder. Occasional coder. Full time debugger.
-
-
 I like building cool stuff.
 
 Mostly AI related systems.
