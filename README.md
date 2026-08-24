@@ -22,7 +22,7 @@ Sometimes web applications too.
 
 
 
-## Tech Stack
+## My Stack
 
 ### Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
