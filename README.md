@@ -3,7 +3,7 @@
 
 I'm a fourth year CSE - AI student currently studying at Amrita Vishwa Vidhyapeetam, Bangalore. 
 
-I like building AI systems.
+I like building AI systems..
 
 Sometimes web applications too.
 
