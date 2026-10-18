@@ -9,7 +9,7 @@ Sometimes web applications too.
 
 Was also a part of bi0sblr where i explored cryptography and participated in CTFs.
 
-still curious, still creating, still confused.
+still learning, still curious, still confused.
 
 
 ## Research Publications
